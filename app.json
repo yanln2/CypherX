@@ -16,7 +16,7 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "XPLOADER-BOT:~enBWQSAD#7Yfj5qJtyLFwqbIG5R4jeYPCQd6tvJB2nDDymaJO4Qs",
     "required": false
   },
   "BOT_NAME": {
